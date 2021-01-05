@@ -3,7 +3,7 @@ package lisson.gb;
 import javax.swing.*;
 import java.awt.*;
 
-public class Frame extends JFrame {
+public class Frame extends JFrame{
     Frame(){
         setTitle("Чат");
         setSize(new Dimension(400,400));

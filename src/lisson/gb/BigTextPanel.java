@@ -5,7 +5,7 @@ import javax.swing.border.Border;
 import javax.swing.border.CompoundBorder;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
-public class BigTextPanel extends JPanel {
+public class BigTextPanel extends JPanel{
     private JTextArea textArea;
 
     BigTextPanel() {

@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-public class SendPanel extends JPanel {
+public class SendPanel extends JPanel{
     private JTextField textField;
     private JTextArea textArea;
     private String br;
